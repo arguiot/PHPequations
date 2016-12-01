@@ -13,7 +13,6 @@
   *		 x + y = 4-2
   *		 x + 2*y = 8 - x
   *
-  * @author	Naveed ur Rehman
   *---------------------------------------------------------
   */
 class phpequations
